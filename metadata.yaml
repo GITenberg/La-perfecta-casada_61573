@@ -1,0 +1,35 @@
+_repo: La-perfecta-casada_61573
+_version: 0.0.1
+creator:
+  author:
+    agent_name: León, Luis de
+    aliases:
+    - Leon, Luis de
+    - Ponce de León, Luis
+    - Luisius, Legionensis
+    - De León, Luis
+    - León, Luis Ponce de
+    - Deleón, Luis
+    birthdate: 1527
+    deathdate: 1591
+    gutenberg_agent_id: '51494'
+    url: http://www.gutenberg.org/2009/agents/51494
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Luis_de_Le%C3%B3n
+    - https://es.wikipedia.org/wiki/Luis_de_Le%C3%B3n
+description: ''
+gutenberg_issued: '2020-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61573'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Marriage -- Early works to 1800'
+- !lcc 'HQ'
+- GITenberg
+title: La perfecta casada
+url: http://www.gutenberg.org/ebooks/61573
